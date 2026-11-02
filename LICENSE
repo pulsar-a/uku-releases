@@ -1,24 +1,76 @@
-This is free and unencumbered software released into the public domain.
+Uku License
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 Dinar Garipov. All rights reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Uku, its source code, its compiled builds and its documentation (together, the "Software") are proprietary. They are
+owned by Dinar Garipov (the "Author") and protected by copyright law and international treaties. The Software is
+licensed, not sold. By installing, copying or using the Software, you agree to this license. If you do not agree,
+do not install, copy or use it.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. Use of the app
 
-For more information, please refer to <https://unlicense.org>
+   The Author grants you a personal, non-exclusive, non-transferable, revocable license to install and use the official
+   builds of the app, as published by the Author (on the Author's website, the GitHub releases of this repository, the
+   Microsoft Store or the Mac App Store), on devices you own or control.
+
+   If you got the app through an app store, that store's terms of use also apply. Where they conflict with this license
+   about your use of the app, the store's terms prevail.
+
+2. Source code
+
+   The source code is made available for reading only. Having access to it, downloading it, or receiving it in a source
+   code archive grants no license to use it beyond reading it.
+
+3. Restrictions
+
+   Except as expressly allowed above, or by the Author in writing, you may not:
+
+   a. copy, modify, translate, adapt or create derivative works of the Software, in whole or in part;
+   b. build, compile or run the app from its source code, except to review it;
+   c. distribute, publish, sublicense, sell, rent, lend or otherwise make the Software available to anyone else,
+      including as a hosted service;
+   d. decompile, disassemble or reverse engineer the app, except to the extent the applicable law allows it despite
+      this restriction;
+   e. remove or alter any copyright notice, trademark or this license; or
+   f. use the name "Uku" or its logo to suggest that the Author endorses you or anything you make.
+
+   All rights not expressly granted in this license are reserved by the Author.
+
+4. Third-party components
+
+   The Software includes open-source components that remain under their own licenses. They are listed, with their
+   licenses, in the app under About Uku > Open-source licenses, and in src/Uku.App/Assets/Licenses. Nothing in this
+   license limits your rights under those licenses for those components.
+
+5. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+   NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. THE
+   AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED OR SECURE, THAT IT WILL KEEP YOUR FILES
+   SAFE, OR THAT ANY DEFECT WILL BE CORRECTED. YOU USE THE SOFTWARE AT YOUR OWN RISK, AND YOU ARE RESPONSIBLE FOR
+   BACKING UP YOUR FILES.
+
+6. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR
+   PUNITIVE, INCLUDING BUT NOT LIMITED TO LOSS OR CORRUPTION OF DATA OR FILES, LOSS OF PROFITS, BUSINESS INTERRUPTION OR
+   DAMAGE TO DEVICES, WHETHER IN AN ACTION OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, ARISING FROM, OUT OF OR
+   IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+   OF SUCH DAMAGES.
+
+   Some jurisdictions do not allow certain warranties or liabilities to be excluded or limited. In those jurisdictions,
+   the exclusions and limitations above apply to the fullest extent the law allows, and nothing in this license limits
+   any liability that cannot be limited by law.
+
+7. Termination
+
+   This license ends automatically if you break any of its terms. When it ends, you must stop using the Software and
+   delete all copies of it in your possession. Sections 3 to 7 survive the end of this license.
+
+8. Changes
+
+   The Author may publish new versions of this license. Each version of the Software is licensed under the license
+   that comes with it.
+
+For permissions beyond this license, contact the Author through https://github.com/garf/Uku.
